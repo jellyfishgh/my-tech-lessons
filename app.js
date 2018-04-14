@@ -1,2 +1,3 @@
-var hello = "hello world";
-console.log(hello);
+document.body.onclick = function() {
+    alert('alert')
+}
